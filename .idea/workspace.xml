@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be3b182-dfcc-4f42-8670-eb6d365d1e1c" name="Changes" comment="origin Added Commit-1.txt" />
+    <list default="true" id="9be3b182-dfcc-4f42-8670-eb6d365d1e1c" name="Changes" comment="origin added misc.xml, vcs.xml, workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/p40009b/Downloads/source/Spoon-Knife-demo",
     "ruby.rails.projectView.checked": "true",
     "settings.editor.selected.configurable": "vcs.Git"
   }
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671120569678</updated>
-      <workItem from="1671120571632" duration="2366000" />
+      <workItem from="1671120571632" duration="3384000" />
     </task>
     <task id="LOCAL-00001" summary="Added Commit-1.txt">
       <created>1671120830099</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671121204324</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="origin added misc.xml, vcs.xml, workspace.xml">
+      <created>1671126786281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671126786281</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +92,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="feature2" />
                       </list>
                     </value>
                   </entry>
@@ -99,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Commit-1.txt" />
     <MESSAGE value="origin Added Commit-1.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="origin Added Commit-1.txt" />
+    <MESSAGE value="origin added misc.xml, vcs.xml, workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="origin added misc.xml, vcs.xml, workspace.xml" />
   </component>
 </project>
